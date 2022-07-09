@@ -2,6 +2,12 @@
     color: #fff;
     margin-left: 20px;
 }
+.title{
+    font-size: 25px;
+}
+.smallTitle{
+    font-size: 20px;
+}
 .posters{
      display: flex;
      padding: 20px;
@@ -14,4 +20,16 @@
 .poster{
     max-height: 250px;
     margin-right: 10px;
+    cursor: pointer;
+}
+.poster:hover{
+    transform: scale(1.1);
+}
+.smallPoster{
+    max-height: 150px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.smallPoster:hover{
+    transform: scale(1.1);
 }

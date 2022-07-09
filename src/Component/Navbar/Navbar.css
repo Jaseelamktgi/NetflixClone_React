@@ -1,18 +1,30 @@
 .navbar{
     position: fixed;
     top: 0;
-    background: black;
     width:100% ;
+    background-color: black;
     height:30px ;
     padding: 20px;
     display: flex;
     justify-content: center;
+    color: white;
+    font-size: 14px;
 }
+.container{
+    padding: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .logo{
     position: fixed;
     left: 20px;
     width: 80px;
 }
+/* span{
+    color: white;
+} */
 .avatar{
     position: fixed;
    right: 20px;
