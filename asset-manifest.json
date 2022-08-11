@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jaseelamktgi/NetflixClone_React/static/css/main.6a6cf96c.css",
+    "main.js": "/Jaseelamktgi/NetflixClone_React/static/js/main.16a3607a.js",
+    "static/js/787.440c4889.chunk.js": "/Jaseelamktgi/NetflixClone_React/static/js/787.440c4889.chunk.js",
+    "index.html": "/Jaseelamktgi/NetflixClone_React/index.html",
+    "main.6a6cf96c.css.map": "/Jaseelamktgi/NetflixClone_React/static/css/main.6a6cf96c.css.map",
+    "main.16a3607a.js.map": "/Jaseelamktgi/NetflixClone_React/static/js/main.16a3607a.js.map",
+    "787.440c4889.chunk.js.map": "/Jaseelamktgi/NetflixClone_React/static/js/787.440c4889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6cf96c.css",
+    "static/js/main.16a3607a.js"
+  ]
+}
